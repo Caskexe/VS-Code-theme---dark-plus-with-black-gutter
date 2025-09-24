@@ -3,6 +3,9 @@ A simple adjustment to the VS Code theme "dark plus" that adds a black gutter to
 
 Works with VS Code and VS Code Server/Web
 
+<img width="1593" height="768" alt="theme" src="https://github.com/user-attachments/assets/752fdf47-4227-4320-9cab-158b510e0075" />
+
+
 ## Install
 
 from [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=CASKexe.theme-darkplus-with-black-gutter)
