@@ -1,0 +1,23 @@
+{
+  "name": "theme-darkplus-with-black-gutter",
+  "displayName": "Dark Plus (with black gutter)",
+  "description": "The same as dark plus, but a bit better",
+  "publisher": "CASKexe",
+  "version": "1.0.2",
+  "icon":"icons/darkplusgutter.png",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "darkplus-withgutter",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darkplus-with-black-gutter.json"
+      }
+    ]
+  }
+}
